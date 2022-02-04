@@ -3,3 +3,4 @@ Stack : Pengennya Backend
 Bahasa Pemrograman : Python
 Umur : 18 Tahun
 Asal : Nganjuk
+Domisili : Jogjakarta
