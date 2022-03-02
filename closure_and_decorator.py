@@ -1,7 +1,3 @@
-def hitung_luas(a, t):
-    luas = 1/2 * a * t
-    print(luas)
-
 def check_number(func):
     def inner(a, t):
         if a < 5:
@@ -12,5 +8,10 @@ def check_number(func):
             t = 5
         return func(a, t)
     return inner
+
+@check_number
+def hitung_luas(a, t):
+    luas = 1/2 * a * t
+    print(luas)
 
 hitung_luas(4, 8)
