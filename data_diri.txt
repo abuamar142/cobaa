@@ -1,6 +1,0 @@
-Nama : M. Abu Amar Al Badawi
-Stack : Pengennya Backend
-Bahasa Pemrograman : Python
-Umur : 18 Tahun
-Asal : Nganjuk
-Domisili : Jogjakarta
